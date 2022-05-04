@@ -21,7 +21,7 @@ conda activate VvTalk
 
 `setup.py`
 
-4. 将 misc.zip 中的 misc 文件夹解压到项目的根目录
+4. 下载 misc_7z 中的分卷压缩包，将 misc 文件夹解压到项目的根目录
 
 5. 若安装完成后的使用过程中，在自动对齐时报错并对齐失败，可能是因为Montreal-Forced-Aligner的一个已经修复但尚未更新漏洞。查看其版本，若为2.0.0rc5，则将本项目中 setup_install/Monteral-Forced-Aligner/corpus/acoustic_corpus.py 文件替换掉对应目录下原有的文件，可以解决这个bug。
 
