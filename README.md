@@ -11,13 +11,15 @@ Tool for virtual vocalist talkoid in Mandarin. 汉语普通话语调教辅助工
 
 2. 创建一个虚拟环境并激活
 
-`conda create -n VvTalk python=3.8
+```
+conda create -n VvTalk python=3.8
 
-conda activate VvTalk`
+conda activate VvTalk
+```
 
 3. 确保终端的工作目录在项目的根目录后，运行setup.py
 
-`setup.py'
+`setup.py`
 
 4. 将 misc.zip 中的 misc 文件夹解压到项目的根目录
 
