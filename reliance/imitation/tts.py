@@ -2,7 +2,6 @@ import os
 import shutil
 
 import pyttsx3 as pt
-import pyttsx3.drivers.sapi5  # for pyinstaller
 
 # huawei cloud tts
 
