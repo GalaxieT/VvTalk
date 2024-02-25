@@ -3,7 +3,7 @@ Tool for virtual vocalist talkoid in Mandarin. 汉语普通话语调教辅助工
 
 版本号：1.0.1
 
-打包好的版本可以在[b站专栏](https://space.bilibili.com/15114289/article)找到度盘链接，同时在[vsqx.top](vsqx.top)上配布。
+打包好的版本可以在[b站专栏](https://space.bilibili.com/15114289/article)找到度盘链接，同时在[vsqx.top](https://www.vsqx.top/)上配布。
 
 手动构建环境：
 
